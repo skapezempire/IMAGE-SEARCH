@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+body{
+
+
+    background-color: antiquewhite;
+}
+.container{
+
+    width:500px;
+    height: 400px;
+    background-color: rgb(44, 44, 44);
+}
